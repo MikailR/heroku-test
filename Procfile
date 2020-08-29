@@ -1,0 +1,1 @@
+web: concurrently "npm start" "npm start --prefix ./client"
